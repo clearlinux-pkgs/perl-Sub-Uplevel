@@ -4,14 +4,13 @@
 #
 Name     : perl-Sub-Uplevel
 Version  : 0.2800
-Release  : 1
+Release  : 2
 URL      : http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Summary  : 'apparently run a function in a higher stack frame'
 Group    : Development/Tools
-License  : Artistic-1.0-Perl
+License  : Artistic-1.0 Artistic-1.0-Perl GPL-1.0
 Requires: perl-Sub-Uplevel-doc
-BuildRequires : python3-dev
 
 %description
 NAME
