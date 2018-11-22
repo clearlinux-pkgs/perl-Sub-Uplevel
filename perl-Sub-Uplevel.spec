@@ -4,7 +4,7 @@
 #
 Name     : perl-Sub-Uplevel
 Version  : 0.2800
-Release  : 4
+Release  : 5
 URL      : http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Summary  : 'apparently run a function in a higher stack frame'
@@ -75,7 +75,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/Sub/Uplevel.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Sub/Uplevel.pm
 
 %files dev
 %defattr(-,root,root,-)
