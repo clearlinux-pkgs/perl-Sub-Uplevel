@@ -4,7 +4,7 @@
 #
 Name     : perl-Sub-Uplevel
 Version  : 0.2800
-Release  : 10
+Release  : 11
 URL      : http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Summary  : 'apparently run a function in a higher stack frame'
